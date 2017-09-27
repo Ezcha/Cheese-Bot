@@ -1,3 +1,5 @@
+## This has been abandoned. A reworked bot program will be coming very soon. I'll update this with a link when it is released. This bot only supports Minecraft 1.8 and is filled with bugs, do to being one of my first projects in Node.js and my lack of practice with it.
+
 ![Logo Image](http://i.imgur.com/LN0xDMx.png)
 
 A simple plugin based Minecraft bot made with Mineflayer and Node-Webkit.
