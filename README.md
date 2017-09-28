@@ -4,16 +4,11 @@
 
 A simple plugin based Minecraft bot made with Mineflayer and Node-Webkit.
 
-More info at http://bot.minecheesecraft.com/
-
-Plugin repository at https://github.com/Minecheesecraft/Cheese-Bot-Plugins
+Plugin repository at https://github.com/Ezcha/Cheese-Bot-Plugins
 
 ![Screenshot](http://i.imgur.com/Na7m63O.png)
 
 # How to Install
-
-
-For easy installation, download the installer or zip [here](http://bot.minecheesecraft.com/download.html).
 
 
 For advanced installation:
