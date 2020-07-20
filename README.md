@@ -1,4 +1,4 @@
-## This has been abandoned. A reworked bot program will be coming very soon. I'll update this with a link when it is released. This bot only supports Minecraft 1.8 and is filled with bugs, due to being one of my first projects in Node.js and my lack of practice with it.
+### This has been abandoned. This was one of my first projects made using Node.js and at the time I did not have much experience. If you come across any old janky scripting please don't hold it against me.
 
 ![Logo Image](http://i.imgur.com/LN0xDMx.png)
 
